@@ -1,5 +1,6 @@
 # KnockLock: Rhythmic 2FA Home Security System
-<img width="1228" height="1482" alt="image" src="https://github.com/user-attachments/assets/81acdbf9-198d-4799-a525-dba310bcfaec" />
+<img width="664" height="790" alt="image" src="https://github.com/user-attachments/assets/a94e9419-d501-4765-81a5-a26ee862901c" />
+<img width="1484" height="1102" alt="image" src="https://github.com/user-attachments/assets/4ab391ea-9127-4ed4-8224-7c6e8806551f" />
 
 A sophisticated two-factor authentication home security system that combines **rhythmic knock recognition** and **combination keypad entry** for enhanced access control.
 
